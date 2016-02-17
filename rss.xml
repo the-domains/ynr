@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ynr]]></title>
+        <description><![CDATA[ynr]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 22:52:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am currently a user experience researcher at Microsoft, in the Surface tablet team. I was previously working in the Developers Division on a variety of things including the Team Foundation Server product for managing large software projects, the Windows 8 development experience, the C++ Developer experience, and the help and community experience. On this website, you will find information about my job as an academic researcher and as a user experience researcher and designer. You can check out the research section for details about my research projects, including my Ph.D. thesis (in English) andmarkerClock</p>]]></description>
+            <link>undefined4955f050-8ece-4386-be52-31e852610529/index.html</link>
+            <guid isPermaLink="false">4955f050-8ece-4386-be52-31e852610529</guid>
+            <pubDate>Wed, 17 Feb 2016 22:52:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
