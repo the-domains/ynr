@@ -2,6 +2,7 @@ name: ynr
 favicon: null
 layout_spectrum: 0.9135630598757416
 typography_spectrum: 0.6254835021682084
+title: ynr
 cta:
   domain: null
   bucket: null
